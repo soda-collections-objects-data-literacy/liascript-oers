@@ -70,10 +70,12 @@ Using WissKI and the Erlangen CRM, participants engage in hands-on practice and 
 **Learners are able to...** [LZM](https://zenodo.org/records/15025246) 
 
 Interpreting
+
 * evaluate the suitability of different database systems for a specific research project (LZ-ID 02_010_0407)
 * apply an appropriate data curation concept that takes into account semantic modeling and the FAIR principles (LZ-ID 02_016_0567).
 
 Capturing
+
 * name (LZ-ID 03_003_0646) and explain (LZ-ID 03_003_0647) metadata standards.
 * independently analyze metadata standards (LZ-ID 03_003_0657).
 * apply metadata standards under guidance (LZ-ID 03_003_0659).
@@ -81,10 +83,12 @@ Capturing
 * describe areas of application for controlled vocabularies (LZ-ID 03_005_0696).
 
 Modeling
+
 * use ontologies to describe resources (LZ-ID 03_007_0780).
 * use WissKI Pathbuilder to model groups and paths (new).
 
 Creating
+
 * use draw.io to represent semantic groups and paths (new).
 * export ontology diagram as XML files from draw.io (new).
 * using the gnm_service conversion tool (new).
@@ -92,6 +96,7 @@ Creating
 * verify groups and paths (new).
 
 Enrichng
+
 * name examples of authority data (03_005_0720).
 * identify quality criteria for controlled vocabularies (LZ-ID 03_005_0717).
 * explain quality criteria for controlled vocabularies (LZ-ID 03_005_0718).
@@ -102,15 +107,15 @@ Web Development
 
 ## Agenda and Structure (theory and practice)
 
-| **Slot 1 (9:00 a.m. – 10:40 a.m.)**             | **Slot 2 (11:10 a.m. – 12:50 p.m.)**              |
-|-------------------------------------------------|--------------------------------------------------|
-| **Interpreting – Capturing – Modeling**         | **Creating – Enriching – Web Developing**        |
-| **解釈 - キャプチャ - モデリング**               | **作成 - 拡張 - ウェブ開発**                     |
-| * Introduction, orientation, warm-up (input)    | * From draw.io to WissKI Pathubuilder (individual activity) |
-| * WissKI in a nutshell (input)                  | * Data editing and querying (group work, input)  |
-| * Identify core entities from a collection (group work) | * Where is WissKI heading? (input)          |
-| * Entity mapping, ontology modeling in draw.io (individual activity) | * Group discussion and feedback         |
-| * Group discussion and feedback                 | –                                                |
+| **Slot 1 (9:00 a.m. – 10:40 a.m.)**                   | **Slot 2 (11:10 a.m. – 12:50 p.m.)**              |
+|-------------------------------------------------      |--------------------------------------------------|
+| **Interpreting – Capturing – Modeling**               | **Creating – Enriching – Web Developing**        |
+| **解釈 - キャプチャ - \モデリング\**                     | **作成 - 拡張 - ウェブ開発**                     |
+| Introduction, orientation, warm-up (input)            | From draw.io to WissKI Pathubuilder (individual activity) |
+| WissKI in a nutshell (input)                          | Data editing and querying (group work, input)  |
+| Identify core entities from a collection (group work) | Where is WissKI heading? (input)          |
+| Entity mapping, ontology modeling in draw.io (individual activity) | Group discussion and feedback         |
+| Group discussion and feedback                 | –                                                |
 
 
 ## Speaker
@@ -122,6 +127,7 @@ Her research centers on heterogeneous data integration, semantic infrastructures
 ## Co-Authors
  
 **Gudrun Schwenk** is a research associate at the Interessengemeinschaft für Semantische Datenverarbeitung e. V., g.schwenk@igsd-ev.de. In the SODa project, she focuses on conservation and restoration documentation in scientific collections. She’s especially enthusiastic about semantic enrichment, CIDOC CRM, WissKI, and reflecting on and working with ontologies – always looking for ways to make data more meaningful (and a little more connected), and to help knowledge flow more easily between people, systems, and institutions.
+
 
 **Mark Fichtner** holds a diploma in computer science from the Friedrich-Alexander University of Erlangen-Nuremberg. From 2009 to 2012, he played a key role in the development of the project “ [WissKI](https://wiss-ki.eu/) – Scientific Communication Infrastructure.” In 2012, he worked at the [Germanisches Nationalmuseum](https://www.gnm.de/museum/abteilungen-anlaufstellen/museums-und-kulturinformatik) on the digital implementation and long-term preservation of the project The Early Dürer. Since December 1, 2012, he has served as Deputy Head of the Department for Museum and Cultural Informatics at the Germanisches Nationalmuseum, which he has led as Head of Department since January 1, 2020. Additionally, he has been a founding board member of the [Interessensgemeinschaft für Semantische Datenverarbeitung (IGSD e.V.)](https://igsd-ev.de/ziele), m.fichtner@gnm.de.
 
