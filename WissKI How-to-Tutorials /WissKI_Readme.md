@@ -13,6 +13,7 @@ URL/DOI: tba
 email: soda@sammlungen.io
 version: v1.0.0
 language: ENG
+target group: SODa researcher
 
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
 link:     https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/soda.css
