@@ -171,6 +171,7 @@ Petersen, Britta et al. (2025) [Lernzielmatrix zum Themenbereich Forschungsdaten
 
 Hastik, C.; Schwenk, G., and Reichert, R. (2025) [How OERs Succeed with the Learning Objectives Matrix (LZM) in University Collections](https://zenodo.org/records/15122321).
 
-**Good WissKI-based example: [CoVHer](repository.covher.eu) Repository**
 
-The CoVHer Repository ( repository.covher.eu) showcases a strong WissKI-based implementation for publishing 3D reconstructions with rich semantic metadata. It documents not only the models but also the research and modeling processes using CIDOC CRM and related ontologies—enabling transparency, reuse, and FAIR data practices in cultural heritage.
+**WissKI-based example: [CoVHer](repository.covher.eu) Repository**
+
+The CoVHer Repository ( repository.covher.eu) showcases a strong WissKI-based implementation for publishing 3D reconstructions with rich semantic metadata. It documents not only the models but also the research and modeling processes using CIDOC CRM and related ontologies — enabling transparency, reuse, and FAIR data practices in cultural heritage.
