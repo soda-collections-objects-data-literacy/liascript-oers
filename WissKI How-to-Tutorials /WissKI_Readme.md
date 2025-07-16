@@ -120,7 +120,6 @@ The tutorial is led by **Dr. Canan Hastik** ([Interessensgemeinschaft für Seman
 Her research centers on heterogeneous data integration, semantic infrastructures, and ontology-driven modeling, as well as the development of didactically grounded Open Educational Resources (OERs) for FAIR data publication, research data management, data literacy, and data science. She has led and contributed to numerous national and international projects in the fields of digital humanities, education, and library and information science.
 
 
-
 ## Co-Authors
 
 ![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/schwenk.jpg)<!--width="100%"--> 
@@ -168,8 +167,10 @@ SODa is funded by the German Federal Ministry of Education and Research (BMBF) a
 
 [![TaDiRAH](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)](https://github.com/dhtaxonomy/TaDiRAH)[TaDiRAH – Taxonomy of Research Activities in the Humanities](https://github.com/dhtaxonomy/TaDiRAH).
 
-Petersen, Britta et al. (2025)[Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM)](https://zenodo.org/records/15025246), [soon available in English](https://doi.org/10.5281/zenodo.15846806).
+Petersen, Britta et al. (2025) [Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM)](https://zenodo.org/records/15025246), [soon available in English](https://doi.org/10.5281/zenodo.15846806).
 
 Hastik, C.; Schwenk, G., and Reichert, R. (2025) [How OERs Succeed with the Learning Objectives Matrix (LZM) in University Collections](https://zenodo.org/records/15122321).
 
+**Good WissKI-based example: [CoVHer](repository.covher.eu) Repository**
 
+The CoVHer Repository ( repository.covher.eu) showcases a strong WissKI-based implementation for publishing 3D reconstructions with rich semantic metadata. It documents not only the models but also the research and modeling processes using CIDOC CRM and related ontologies—enabling transparency, reuse, and FAIR data practices in cultural heritage.
