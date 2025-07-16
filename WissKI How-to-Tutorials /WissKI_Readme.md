@@ -67,7 +67,7 @@ Using WissKI and the Erlangen CRM, participants engage in hands-on practice and 
 * [Enriching](https://vocabs.dariah.eu/tadirah/en/page/enriching): Enrich existing datasets with semantic links, external vocabularies, and authority data.
 * [Web Developing](https://vocabs.dariah.eu/tadirah/en/page/webDevelopment): Conduct structured data analysis with SPARQL in the WissKI environment.
 
-**Learners are able to...** [LZM](https://zenodo.org/records/15025246) 
+**Learners are...** [for details see LZM](https://zenodo.org/records/15025246) 
 
 Interpreting
 
