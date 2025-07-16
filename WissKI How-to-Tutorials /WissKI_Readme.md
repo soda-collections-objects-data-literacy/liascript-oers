@@ -11,7 +11,7 @@ version: v1.0.0
 language: ENG
 target_group: SODa researcher
 format:SODa WissKI How-to-Tutorial
-learning: Demonstrative Learning, Learning by Doing
+learning: Demonstrative Learning and Learning by Doing
 units:
 learning objectives:
 keywords:
