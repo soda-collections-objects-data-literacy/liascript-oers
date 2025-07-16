@@ -10,7 +10,7 @@ orcid: https://orcid.org/0000-0001-5597-4222
 licence: cc by 4.0
 licence link: https://creativecommons.org/licenses/by/4.0/
 URL/DOI: tba
-email: SODa@sammlungen.io
+email: soda@sammlungen.io
 version: v1.0.0
 language: ENG
 
