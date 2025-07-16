@@ -11,7 +11,7 @@ version: v1.0.0
 language: ENG
 target_group: SODa researcher
 icon: https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
-stylesheet: https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/soda.css
+link: https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/soda.css
 -->
 
 # SODa WissKI Bits Tutorial
