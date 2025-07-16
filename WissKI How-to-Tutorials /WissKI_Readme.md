@@ -10,6 +10,11 @@ email: soda@sammlungen.io
 version: v1.0.0
 language: ENG
 target_group: SODa researcher
+format:SODa WissKI How-to-Tutorial
+learning: Demonstrative Learning, Learning by Doing
+units:
+learning objectives:
+keywords:
 icon: https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
 link: https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/soda.css
 -->
