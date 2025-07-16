@@ -1,25 +1,18 @@
 <!--
-
-titel: SODa WissKI Bits Tutorial
-authorin: Canan Hastik
-orcid: https://orcid.org/0000-0003-1729-4642
-authorin: Gudrun Schwenk
-orcid: https://orcid.org/0009-0002-3156-8339
-authorin: Mark Fichtner
-orcid: https://orcid.org/0000-0001-5597-4222
-licence: cc by 4.0
-licence link: https://creativecommons.org/licenses/by/4.0/
-URL/DOI: tba
+title: SODa WissKI Bits Tutorial
+authorin1: Canan Hastik (https://orcid.org/0000-0003-1729-4642)
+authorin2: Gudrun Schwenk (https://orcid.org/0009-0002-3156-8339)
+authorin3: Mark Fichtner (https://orcid.org/0000-0001-5597-4222)
+license: CC BY 4.0
+license_link: https://creativecommons.org/licenses/by/4.0/
+doi: tba
 email: soda@sammlungen.io
 version: v1.0.0
 language: ENG
-target group: SODa researcher
-
-icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
-link:     https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/soda.css
-
+target_group: SODa researcher
+icon: https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
+stylesheet: https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/soda.css
 -->
-
 
 # SODa WissKI Bits Tutorial
 
