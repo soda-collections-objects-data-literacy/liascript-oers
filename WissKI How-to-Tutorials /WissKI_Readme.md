@@ -72,35 +72,26 @@ Using WissKI and the Erlangen CRM, participants engage in hands-on practice and 
 
 **Participants will learn...**
 
-* [Analyzing](https://vocabs.dariah.eu/tadirah/en/page/analyzing): Analyze an existing WissKI collection, its conceptual and methodological structure.
-* [Capturing](https://vocabs.dariah.eu/tadirah/en/page/capturing): Capture and structure metadata based on CIDOC CRM with Protegé.
-* [Modeling](https://vocabs.dariah.eu/tadirah/en/page/modeling): Apply ontology-driven modeling techniques using WissKI Pathbuilder.
-* [Creating](https://vocabs.dariah.eu/tadirah/en/page/creating): Develop WissKI instances and define semantic groups and paths using draw.io to pathbuilder tool pipeline.
-* [Enriching](https://vocabs.dariah.eu/tadirah/en/page/enriching): Enrich existing datasets with semantic links, external vocabularies, and authority data.
-* [Web Developing](https://vocabs.dariah.eu/tadirah/en/page/webDevelopment): Conduct structured data analysis with SPARQL in the WissKI environment.
+[Analyzing](https://vocabs.dariah.eu/tadirah/en/page/analyzing): Analyze an existing WissKI collection, its conceptual and methodological structure.
 
-**Learners are...** 
+* evaluate the suitability of different database systems for a specific research project (LZ-ID 02\_010\_0407)
+* apply an appropriate data curation concept that takes into account semantic modeling and the FAIR principles (LZ-ID 02\_016\_0567).
 
-Interpreting
+[Capturing](https://vocabs.dariah.eu/tadirah/en/page/capturing): Capture and structure metadata based on CIDOC CRM with Protegé.
 
-* evaluate the suitability of different database systems for a specific research project (LZ-ID 02_010_0407)
-* apply an appropriate data curation concept that takes into account semantic modeling and the FAIR principles (LZ-ID 02_016_0567).
+* name metadata standards (LZ-ID 03\_003\_0646).
+* explain metadata standards (LZ-ID 03\_003\_0647).
+* independently analyze metadata standards (LZ-ID 03\_003\_0657).
+* apply metadata standards under guidance (LZ-ID 03\_003\_0659).
+* define the term “controlled vocabulary” (LZ-ID 03\_005\_0695)
+* describe areas of application for controlled vocabularies (LZ-ID 03\_005\_0696).
 
-Capturing
+[Modeling](https://vocabs.dariah.eu/tadirah/en/page/modeling): Apply ontology-driven modeling techniques using WissKI Pathbuilder.
 
-* name metadata standards (LZ-ID 03_003_0646).
-* explain metadata standards (LZ-ID 03_003_0647).
-* independently analyze metadata standards (LZ-ID 03_003_0657).
-* apply metadata standards under guidance (LZ-ID 03_003_0659).
-* define the term “controlled vocabulary” (LZ-ID 03_005_0695)
-* describe areas of application for controlled vocabularies (LZ-ID 03_005_0696).
-
-Modeling
-
-* use ontologies to describe resources (LZ-ID 03_007_0780).
+* use ontologies to describe resources (LZ-ID 03\_007\_0780).
 * use WissKI Pathbuilder to model groups and paths (new).
 
-Creating
+[Creating](https://vocabs.dariah.eu/tadirah/en/page/creating): Develop WissKI instances and define semantic groups and paths using draw.io to pathbuilder tool pipeline.
 
 * use draw.io to represent semantic groups and paths (new).
 * export ontology diagram as XML files from draw.io (new).
@@ -108,14 +99,15 @@ Creating
 * import Pathbuilder XML into WissKI (new).
 * verify groups and paths (new).
 
-Enrichng
+[Enriching](https://vocabs.dariah.eu/tadirah/en/page/enriching): Enrich existing datasets with semantic links, external vocabularies, and authority data.
 
-* name examples of authority data (03_005_0720).
-* identify quality criteria for controlled vocabularies (LZ-ID 03_005_0717).
-* explain quality criteria for controlled vocabularies (LZ-ID 03_005_0718).
+* name examples of authority data (LZ-ID 03\_005\_0720).
+* identify quality criteria for controlled vocabularies (LZ-ID 03\_005\_0717).
+* explain quality criteria for controlled vocabularies (LZ-ID 03\_005\_0718).
 
-Web Development
-* Learners are able to apply database queries (02_010_0403).
+[Web Developing](https://vocabs.dariah.eu/tadirah/en/page/webDevelopment): Conduct structured data analysis with SPARQL in the WissKI environment.
+
+* Learners are able to apply database queries (LZ-ID 02\_010\_0403).
 
 
 ## Speaker
