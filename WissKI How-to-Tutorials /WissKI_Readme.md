@@ -56,8 +56,8 @@ This promotes sustainable action competence, especially with complex digital too
 
 | **Slot 1 (9:00 a.m. – 10:40 a.m.)**                   | **Slot 2 (11:10 a.m. – 12:50 p.m.)**              |
 |-------------------------------------------------      |--------------------------------------------------|
-| **Interpreting – Capturing – Modeling**               | **Creating – Enriching – Web Developing**        |
-| **解釈 - キャプチャ - \モデリング\**                     | **作成 - 拡張 - ウェブ開発**                     |
+| **Analyzing – Capturing – Modeling**               | **Creating – Enriching – Web Developing**        |
+| **分析 - キャプチャ - \モデリング\**                     | **作成 - 拡張 - ウェブ開発**                     |
 | Introduction, orientation, warm-up (input)            | From draw.io to WissKI Pathubuilder (individual activity) |
 | WissKI in a nutshell (input)                          | Data editing and querying (group work, input)  |
 | Identify core entities from a collection (group work) | Where is WissKI heading? (input)          |
