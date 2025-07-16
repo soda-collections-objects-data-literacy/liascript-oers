@@ -2,15 +2,16 @@
 
 titel: SODa WissKI Bits Tutorial
 authorin: Canan Hastik
-orcid:
+orcid: https://orcid.org/0000-0003-1729-4642
 authorin: Gudrun Schwenk
 orcid: https://orcid.org/0009-0002-3156-8339
 authorin: Mark Fichtner
-orcid:
-licence: cc by
-URLDOI: tba
+orcid: https://orcid.org/0000-0001-5597-4222
+licence: cc by 4.0
+licence link: https://creativecommons.org/licenses/by/4.0/
+URL/DOI: tba
 email: SODa@sammlungen.io
-version: v1.1
+version: v1.0.0
 language: ENG
 
 icon:     https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
