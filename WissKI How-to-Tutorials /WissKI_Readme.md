@@ -125,6 +125,9 @@ The tutorial is led by **Dr. Canan Hastik** (Interessensgemeinschaft für Semant
 Her research centers on heterogeneous data integration, semantic infrastructures, and ontology-driven modeling, as well as the development of didactically grounded Open Educational Resources (OERs) for FAIR data publication, research data management, data literacy, and data science. She has led and contributed to numerous national and international projects in the fields of digital humanities, education, and library and information science.
 
 ## Co-Authors
+
+![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/schwenk.jpg)<!--width="100%"--> 
+
  
 **Gudrun Schwenk** is a research associate at the Interessengemeinschaft für Semantische Datenverarbeitung e. V., g.schwenk@igsd-ev.de. In the SODa project, she focuses on conservation and restoration documentation in scientific collections. She’s especially enthusiastic about semantic enrichment, CIDOC CRM, WissKI, and reflecting on and working with ontologies – always looking for ways to make data more meaningful (and a little more connected), and to help knowledge flow more easily between people, systems, and institutions.
 
