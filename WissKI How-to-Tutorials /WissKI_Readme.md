@@ -122,7 +122,8 @@ Web Development
 
 ![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/hastik.jpg)<!--width="100%"--> 
 
-The tutorial is led by **Dr. Canan Hastik** (Interessensgemeinschaft für Semantische Datenverarbeitung e.V., c.hastik@igsd-ev.de), a research expert in structured and graph data analysis, research data management (RDM), and digital/data science, with a focus on the Digital Humanities and scientific object collections. She holds a PhD from the Institute for Language & Literature Studies at TU Darmstadt (2019), following a master’s degree in Information Science & Engineering and a diploma in Information & Knowledge Management with a specialization in library science.
+The tutorial is led by **Dr. Canan Hastik** ([Interessensgemeinschaft für Semantische Datenverarbeitung (IGSD e.V.)](https://igsd-ev.de), c.hastik@igsd-ev.de), a research expert in structured and graph data analysis, research data management (RDM), and digital/data science, with a focus on the Digital Humanities and scientific object collections. She holds a PhD from the [Institute for Language & Literature Studies at TU Darmstadt](https://www.linglit.tu-darmstadt.de/aktuelles_10/index.de.jsp) (2019), following a master’s degree in Information Science & Engineering and a diploma in Information & Knowledge Management with a specialization in library science.
+
 
 Her research centers on heterogeneous data integration, semantic infrastructures, and ontology-driven modeling, as well as the development of didactically grounded Open Educational Resources (OERs) for FAIR data publication, research data management, data literacy, and data science. She has led and contributed to numerous national and international projects in the fields of digital humanities, education, and library and information science.
 
@@ -133,7 +134,7 @@ Her research centers on heterogeneous data integration, semantic infrastructures
 ![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/schwenk.jpg)<!--width="100%"--> 
 
  
-**Gudrun Schwenk** is a research associate at the [Interessensgemeinschaft für Semantische Datenverarbeitung (IGSD e.V.)](https://igsd-ev.de/ziele), g.schwenk@igsd-ev.de. In the SODa project, she focuses on conservation and restoration documentation in scientific collections. She’s especially enthusiastic about semantic enrichment, CIDOC CRM, WissKI, and reflecting on and working with ontologies – always looking for ways to make data more meaningful (and a little more connected), and to help knowledge flow more easily between people, systems, and institutions. She has been involved in planning and setting up WissKI instances.
+**Gudrun Schwenk** is a research associate at the [Interessensgemeinschaft für Semantische Datenverarbeitung (IGSD e.V.)](https://igsd-ev.de), g.schwenk@igsd-ev.de. In the SODa project, she focuses on conservation and restoration documentation in scientific collections. She’s especially enthusiastic about semantic enrichment, CIDOC CRM, WissKI, and reflecting on and working with ontologies – always looking for ways to make data more meaningful (and a little more connected), and to help knowledge flow more easily between people, systems, and institutions. She has been involved in planning and setting up WissKI instances.
 
 
 ![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/fichtner.jpg)<!--width="100%"--> 
@@ -171,12 +172,12 @@ SODa is funded by the German Federal Ministry of Education and Research (BMBF) a
 
 ## Additional Notes (e.g. accounts, software)
 
-[![WissKI – Wissenschaftliche Kommunikationsinfrastruktur](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png)](https://wiss-ki.eu/) [WissKI-Wissenschaftliche Kommunikationsinfrastruktur](https://wiss-ki.eu/)
+[![WissKI – Wissenschaftliche Kommunikationsinfrastruktur](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png)](https://wiss-ki.eu/)[WissKI-Wissenschaftliche Kommunikationsinfrastruktur](https://wiss-ki.eu/)
 
-[![TaDiRAH](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)](https://github.com/dhtaxonomy/TaDiRAH) [TaDiRAH – Taxonomy of Research Activities in the Humanities](https://github.com/dhtaxonomy/TaDiRAH)
+[![TaDiRAH](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)](https://github.com/dhtaxonomy/TaDiRAH)[TaDiRAH – Taxonomy of Research Activities in the Humanities](https://github.com/dhtaxonomy/TaDiRAH)
 
-![Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) - soon available in English](https://zenodo.org/records/15025246) 
+[Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) - soon available in English](https://zenodo.org/records/15025246) 
 
-![How OERs Succeed with the Learning Objectives Matrix (LZM) in University Collections](https://zenodo.org/records/15122321)
+[How OERs Succeed with the Learning Objectives Matrix (LZM) in University Collections](https://zenodo.org/records/15122321)
 
 
