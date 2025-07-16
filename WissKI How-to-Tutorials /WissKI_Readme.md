@@ -164,7 +164,7 @@ SODa is funded by the German Federal Ministry of Education and Research (BMBF) a
 
 ## Additional Notes (e.g. accounts, software)
 
-[![WissKI – Wissenschaftliche Kommunikationsinfrastruktur](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png)] (https://wiss-ki.eu/)[WissKI-Wissenschaftliche Kommunikationsinfrastruktur](https://wiss-ki.eu/).
+[![WissKI – Wissenschaftliche Kommunikationsinfrastruktur] (https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png)](https://wiss-ki.eu/)[WissKI-Wissenschaftliche Kommunikationsinfrastruktur](https://wiss-ki.eu/).
 
 [![TaDiRAH](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)](https://github.com/dhtaxonomy/TaDiRAH)[TaDiRAH – Taxonomy of Research Activities in the Humanities](https://github.com/dhtaxonomy/TaDiRAH).
 
