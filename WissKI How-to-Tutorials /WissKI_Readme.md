@@ -44,13 +44,25 @@ The tutorial is aimed at ontology engineers, knowledge graph developers, GLAM an
 
 We expect 25 participants with diverse backgrounds in semantic technologies and applied data modeling.
 
-Participants should have a basic understanding of RDF, OWL, or knowledge graphs, do not need prior experience with [WissKI](https://wiss-ki.eu/), and are expected to bring their own laptops.
+Participants do not need prior experience with [WissKI](https://wiss-ki.eu/) and are expected to bring their own laptops.
 
 ## Teaching Strategy
 
 **Demonstrative Learning**, **Learning by Doing**, and **Modeling form** together form an effective trio for software-based OERs: learners see real application steps, understand the processes behind them and try out what is shown for themselves. 
 
 This promotes sustainable action competence, especially with complex digital tools from WissKI to SPARQL editors.
+
+## Agenda and Structure (theory and practice)
+
+| **Slot 1 (9:00 a.m. – 10:40 a.m.)**                   | **Slot 2 (11:10 a.m. – 12:50 p.m.)**              |
+|-------------------------------------------------      |--------------------------------------------------|
+| **Interpreting – Capturing – Modeling**               | **Creating – Enriching – Web Developing**        |
+| **解釈 - キャプチャ - \モデリング\**                     | **作成 - 拡張 - ウェブ開発**                     |
+| Introduction, orientation, warm-up (input)            | From draw.io to WissKI Pathubuilder (individual activity) |
+| WissKI in a nutshell (input)                          | Data editing and querying (group work, input)  |
+| Identify core entities from a collection (group work) | Where is WissKI heading? (input)          |
+| Entity mapping, ontology modeling in draw.io (individual activity) | Group discussion and feedback         |
+| Group discussion and feedback                 | –                                                |
 
 ## Learning Objectives
 
@@ -60,7 +72,7 @@ Using WissKI and the Erlangen CRM, participants engage in hands-on practice and 
 
 **Participants will learn...**
 
-* [Interpreting](https://vocabs.dariah.eu/tadirah/en/page/interpreting): Interpret an existing WissKI collection portal and analyse on its conceptual and methodological structure.
+* [Analyzing](https://vocabs.dariah.eu/tadirah/en/page/analyzing): Analyze an existing WissKI collection, its conceptual and methodological structure.
 * [Capturing](https://vocabs.dariah.eu/tadirah/en/page/capturing): Capture and structure metadata based on CIDOC CRM with Protegé.
 * [Modeling](https://vocabs.dariah.eu/tadirah/en/page/modeling): Apply ontology-driven modeling techniques using WissKI Pathbuilder.
 * [Creating](https://vocabs.dariah.eu/tadirah/en/page/creating): Develop WissKI instances and define semantic groups and paths using draw.io to pathbuilder tool pipeline.
@@ -76,7 +88,8 @@ Interpreting
 
 Capturing
 
-* name (LZ-ID 03_003_0646) and explain (LZ-ID 03_003_0647) metadata standards.
+* name metadata standards (LZ-ID 03_003_0646).
+* explain metadata standards (LZ-ID 03_003_0647).
 * independently analyze metadata standards (LZ-ID 03_003_0657).
 * apply metadata standards under guidance (LZ-ID 03_003_0659).
 * define the term “controlled vocabulary” (LZ-ID 03_005_0695)
@@ -105,24 +118,15 @@ Web Development
 * Learners are able to apply database queries (02_010_0403).
 
 
-## Agenda and Structure (theory and practice)
-
-| **Slot 1 (9:00 a.m. – 10:40 a.m.)**                   | **Slot 2 (11:10 a.m. – 12:50 p.m.)**              |
-|-------------------------------------------------      |--------------------------------------------------|
-| **Interpreting – Capturing – Modeling**               | **Creating – Enriching – Web Developing**        |
-| **解釈 - キャプチャ - \モデリング\**                     | **作成 - 拡張 - ウェブ開発**                     |
-| Introduction, orientation, warm-up (input)            | From draw.io to WissKI Pathubuilder (individual activity) |
-| WissKI in a nutshell (input)                          | Data editing and querying (group work, input)  |
-| Identify core entities from a collection (group work) | Where is WissKI heading? (input)          |
-| Entity mapping, ontology modeling in draw.io (individual activity) | Group discussion and feedback         |
-| Group discussion and feedback                 | –                                                |
-
-
 ## Speaker
+
+![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/hastik.jpg)<!--width="100%"--> 
 
 The tutorial is led by **Dr. Canan Hastik** (Interessensgemeinschaft für Semantische Datenverarbeitung e.V., c.hastik@igsd-ev.de), a research expert in structured and graph data analysis, research data management (RDM), and digital/data science, with a focus on the Digital Humanities and scientific object collections. She holds a PhD from the Institute for Language & Literature Studies at TU Darmstadt (2019), following a master’s degree in Information Science & Engineering and a diploma in Information & Knowledge Management with a specialization in library science.
 
 Her research centers on heterogeneous data integration, semantic infrastructures, and ontology-driven modeling, as well as the development of didactically grounded Open Educational Resources (OERs) for FAIR data publication, research data management, data literacy, and data science. She has led and contributed to numerous national and international projects in the fields of digital humanities, education, and library and information science.
+
+
 
 ## Co-Authors
 
