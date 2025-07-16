@@ -79,7 +79,7 @@ Using WissKI and the Erlangen CRM, participants engage in hands-on practice and 
 * [Enriching](https://vocabs.dariah.eu/tadirah/en/page/enriching): Enrich existing datasets with semantic links, external vocabularies, and authority data.
 * [Web Developing](https://vocabs.dariah.eu/tadirah/en/page/webDevelopment): Conduct structured data analysis with SPARQL in the WissKI environment.
 
-**Learners are...** [for details see LZM](https://zenodo.org/records/15025246) 
+**Learners are...** 
 
 Interpreting
 
@@ -172,12 +172,12 @@ SODa is funded by the German Federal Ministry of Education and Research (BMBF) a
 
 ## Additional Notes (e.g. accounts, software)
 
-[![WissKI – Wissenschaftliche Kommunikationsinfrastruktur](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png)](https://wiss-ki.eu/)[WissKI-Wissenschaftliche Kommunikationsinfrastruktur](https://wiss-ki.eu/)
+[![WissKI – Wissenschaftliche Kommunikationsinfrastruktur](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png)](https://wiss-ki.eu/)[WissKI-Wissenschaftliche Kommunikationsinfrastruktur](https://wiss-ki.eu/).
 
-[![TaDiRAH](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)](https://github.com/dhtaxonomy/TaDiRAH)[TaDiRAH – Taxonomy of Research Activities in the Humanities](https://github.com/dhtaxonomy/TaDiRAH)
+[![TaDiRAH](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)](https://github.com/dhtaxonomy/TaDiRAH)[TaDiRAH – Taxonomy of Research Activities in the Humanities](https://github.com/dhtaxonomy/TaDiRAH).
 
-[Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) - soon available in English](https://zenodo.org/records/15025246) 
+Petersen, Britta et al. (2025)[Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM)](https://zenodo.org/records/15025246), [soon available in English](https://doi.org/10.5281/zenodo.15846806).
 
-[How OERs Succeed with the Learning Objectives Matrix (LZM) in University Collections](https://zenodo.org/records/15122321)
+Hastik, C.; Schwenk, G., and Reichert, R. (2025) [How OERs Succeed with the Learning Objectives Matrix (LZM) in University Collections](https://zenodo.org/records/15122321).
 
 
