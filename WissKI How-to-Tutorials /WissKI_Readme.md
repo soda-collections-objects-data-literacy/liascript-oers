@@ -167,7 +167,7 @@ SODa is funded by the German Federal Ministry of Education and Research (BMBF) a
 
 [![TaDiRAH](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)](https://github.com/dhtaxonomy/TaDiRAH)[TaDiRAH – Taxonomy of Research Activities in the Humanities-GitHub](https://github.com/dhtaxonomy/TaDiRAH) and [ACDH-CH Vocabs Service](https://vocabs.dariah.eu/tadirah/en/).
 
-[![LiaScript](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/liascript.webp)](https://liascript.github.io)[LiaScript - Open Source Online-courses](https://liascript.github.io).
+[![LiaScript](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/lia.png)](https://liascript.github.io)[LiaScript - Open Source Online-courses](https://liascript.github.io).
 
 Petersen, Britta et al. (2025) [Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM)](https://zenodo.org/records/15025246), [soon available in English](https://doi.org/10.5281/zenodo.15846806).
 
