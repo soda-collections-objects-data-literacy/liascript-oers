@@ -135,11 +135,9 @@ Website Google Scholar GitHub
 
 ## SODa Project and Contact
 
-[SODa – Sammlungen, Objekte und Datenkompetenzen](https://sammlungen.io/) is a German national initiative that strengthens data literacy and research data management (RDM) skills for professionals working with academic collections. The project focuses on developing FAIR, open educational resources (OERs) tailored to collection-based research and digital scholarship.
+[SODa – Sammlungen, Objekte und Datenkompetenzen](https://sammlungen.io/) is a German national initiative that strengthens data literacy and research data management (RDM) skills for professionals working with academic collections. The project provides the necessary and useful data skills for research in and with scientific collections and develops these further in a transdisciplinary and practical manner. It offers workshops, online forums and networking opportunities at events and publishes FAIR, open educational resources (OERs) tailored to collection-based research and digital scholarship, published on [GitHub](https://github.com/soda-collections-objects-data-literacy/liascript-oers) and [Zenodo](https://zenodo.org/communities/soda).
 
 SODa supports structured, interdisciplinary learning around data practices in the context of cultural heritage and research infrastructures. Its modular resources cover topics such as collection development, metadata and ontology modeling, semantic enrichment, data visualization, and digital documentation. 
-
-The project provides the necessary and useful data skills for research in and with scientific collections and develops these further in a transdisciplinary and practical manner. It offers workshops, online forums and networking opportunities at events and publishes FAIR, open educational resources (OERs) tailored to collection-based research and digital scholarship, published on [GitHub](https://github.com/soda-collections-objects-data-literacy/liascript-oers) and [Zenodo](https://zenodo.org/communities/soda).
 
 Learning designs are based on coherent [SODa personas](https://zenodo.org/records/15574575) and a learning objectives matrix for RDM, supporting both foundational knowledge and discipline-specific needs. Research-based and problem-oriented learning approaches encourage active engagement, practical application, and reuse across academic and heritage institutions. 
 
@@ -168,6 +166,8 @@ SODa is funded by the German Federal Ministry of Education and Research (BMBF) a
 [![WissKI – Wissenschaftliche Kommunikationsinfrastruktur](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png)](https://wiss-ki.eu/)[WissKI-Wissenschaftliche Kommunikationsinfrastruktur](https://wiss-ki.eu/).
 
 [![TaDiRAH](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)](https://github.com/dhtaxonomy/TaDiRAH)[TaDiRAH – Taxonomy of Research Activities in the Humanities-GitHub](https://github.com/dhtaxonomy/TaDiRAH) and [ACDH-CH Vocabs Service](https://vocabs.dariah.eu/tadirah/en/).
+
+[![LiaScript](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/liascript.webp)](https://liascript.github.io)[LiaScript - Open Source Online-courses](https://liascript.github.io).
 
 Petersen, Britta et al. (2025) [Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM)](https://zenodo.org/records/15025246), [soon available in English](https://doi.org/10.5281/zenodo.15846806).
 
