@@ -119,7 +119,8 @@ The tutorial is led by **Dr. Canan Hastik** ([Interessensgemeinschaft für Seman
 
 Her research centers on heterogeneous data integration, semantic infrastructures, and ontology-driven modeling, as well as the development of didactically grounded Open Educational Resources (OERs) for FAIR data publication, research data management, data literacy, and data science. She has led and contributed to numerous national and international projects in the fields of digital humanities, education, and library and information science.
 
-Website Google Scholar GitHub 
+[![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/git.png)](https://github.com/chastik).
+
  
 ## Co-Authors
 
@@ -163,9 +164,11 @@ SODa is funded by the German Federal Ministry of Education and Research (BMBF) a
 
 ## Additional Notes (e.g. accounts, software)
 
-[![WissKI – Wissenschaftliche Kommunikationsinfrastruktur](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png)](https://wiss-ki.eu/)[WissKI-Wissenschaftliche Kommunikationsinfrastruktur](https://wiss-ki.eu/).
+[![ WissKI – Wissenschaftliche Kommunikationsinfrastruktur ](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png) ](https://wiss-ki.eu/)[WissKI-Wissenschaftliche Kommunikationsinfrastruktur](https://wiss-ki.eu/).
 
 [![TaDiRAH](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)](https://github.com/dhtaxonomy/TaDiRAH)[TaDiRAH – Taxonomy of Research Activities in the Humanities-GitHub](https://github.com/dhtaxonomy/TaDiRAH) and [ACDH-CH Vocabs Service](https://vocabs.dariah.eu/tadirah/en/).
+
+<br>
 
 [![LiaScript](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/lia.png)](https://liascript.github.io)[LiaScript - Open Source Online-courses](https://liascript.github.io).
 
