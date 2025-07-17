@@ -74,7 +74,7 @@ Using WissKI and the Erlangen CRM, participants engage in hands-on practice and 
 
 [Analyzing](https://vocabs.dariah.eu/tadirah/en/page/analyzing): Analyze an existing WissKI collection, its conceptual and methodological structure.
 
-* evaluate the suitability of different database systems for a specific research project (LZ-ID 02\_010\_0407)
+* evaluate the suitability of different database systems for a specific research project (LZ-ID 02\_010\_0407).
 * apply an appropriate data curation concept that takes into account semantic modeling and the FAIR principles (LZ-ID 02\_016\_0567).
 
 [Capturing](https://vocabs.dariah.eu/tadirah/en/page/capturing): Capture and structure metadata based on CIDOC CRM with Protegé.
@@ -83,7 +83,7 @@ Using WissKI and the Erlangen CRM, participants engage in hands-on practice and 
 * explain metadata standards (LZ-ID 03\_003\_0647).
 * independently analyze metadata standards (LZ-ID 03\_003\_0657).
 * apply metadata standards under guidance (LZ-ID 03\_003\_0659).
-* define the term “controlled vocabulary” (LZ-ID 03\_005\_0695)
+* define the term “controlled vocabulary” (LZ-ID 03\_005\_0695).
 * describe areas of application for controlled vocabularies (LZ-ID 03\_005\_0696).
 
 [Modeling](https://vocabs.dariah.eu/tadirah/en/page/modeling): Apply ontology-driven modeling techniques using WissKI Pathbuilder.
