@@ -119,7 +119,8 @@ The tutorial is led by **Dr. Canan Hastik** ([Interessensgemeinschaft für Seman
 
 Her research centers on heterogeneous data integration, semantic infrastructures, and ontology-driven modeling, as well as the development of didactically grounded Open Educational Resources (OERs) for FAIR data publication, research data management, data literacy, and data science. She has led and contributed to numerous national and international projects in the fields of digital humanities, education, and library and information science.
 
-
+Website Google Scholar GitHub 
+ 
 ## Co-Authors
 
 ![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/schwenk.jpg)<!--width="100%"--> 
@@ -138,7 +139,7 @@ Her research centers on heterogeneous data integration, semantic infrastructures
 
 SODa supports structured, interdisciplinary learning around data practices in the context of cultural heritage and research infrastructures. Its modular resources cover topics such as collection development, metadata and ontology modeling, semantic enrichment, data visualization, and digital documentation. 
 
-The project provides the necessary and useful data skills for research in and with scientific collections and develops these further in a transdisciplinary and practical manner. It offers workshops, online forums and networking opportunities at events and publishes FAIR, open educational resources (OERs) tailored to collection-based research and digital scholarship.
+The project provides the necessary and useful data skills for research in and with scientific collections and develops these further in a transdisciplinary and practical manner. It offers workshops, online forums and networking opportunities at events and publishes FAIR, open educational resources (OERs) tailored to collection-based research and digital scholarship, published on [GitHub](https://github.com/soda-collections-objects-data-literacy/liascript-oers) and [Zenodo](https://zenodo.org/communities/soda).
 
 Learning designs are based on coherent [SODa personas](https://zenodo.org/records/15574575) and a learning objectives matrix for RDM, supporting both foundational knowledge and discipline-specific needs. Research-based and problem-oriented learning approaches encourage active engagement, practical application, and reuse across academic and heritage institutions. 
 
@@ -173,6 +174,6 @@ Petersen, Britta et al. (2025) [Lernzielmatrix zum Themenbereich Forschungsdaten
 Hastik, C.; Schwenk, G., and Reichert, R. (2025) [How OERs Succeed with the Learning Objectives Matrix (LZM) in University Collections](https://zenodo.org/records/15122321).
 
 
-**WissKI-based example: [CoVHer](repository.covher.eu) Repository**
+**WissKI-based example: [CoVHer](https://repository.covher.eu) Repository**
 
 The CoVHer Repository ( repository.covher.eu) showcases a strong WissKI-based implementation for publishing 3D reconstructions with rich semantic metadata. It documents not only the models but also the research and modeling processes using CIDOC CRM and related ontologies — enabling transparency, reuse, and FAIR data practices in cultural heritage.
