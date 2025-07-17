@@ -136,11 +136,11 @@ Her research centers on heterogeneous data integration, semantic infrastructures
 
 [SODa – Sammlungen, Objekte und Datenkompetenzen](https://sammlungen.io/) is a German national initiative that strengthens data literacy and research data management (RDM) skills for professionals working with academic collections. The project focuses on developing FAIR, open educational resources (OERs) tailored to collection-based research and digital scholarship.
 
-SODa supports structured, interdisciplinary learning around data practices in the context of cultural heritage and research infrastructures. Its modular resources cover topics such as collection development, metadata and ontology modeling, semantic enrichment, data visualization, and digital documentation.
+SODa supports structured, interdisciplinary learning around data practices in the context of cultural heritage and research infrastructures. Its modular resources cover topics such as collection development, metadata and ontology modeling, semantic enrichment, data visualization, and digital documentation. 
 
-Learning designs are based on coherent [SODa personas](https://zenodo.org/records/15574575) and a learning objectives matrix for RDM, supporting both foundational knowledge and discipline-specific needs. 
+The project provides the necessary and useful data skills for research in and with scientific collections and develops these further in a transdisciplinary and practical manner. It offers workshops, online forums and networking opportunities at events and publishes FAIR, open educational resources (OERs) tailored to collection-based research and digital scholarship.
 
-Research-based and problem-oriented learning approaches encourage active engagement, practical application, and reuse across academic and heritage institutions.
+Learning designs are based on coherent [SODa personas](https://zenodo.org/records/15574575) and a learning objectives matrix for RDM, supporting both foundational knowledge and discipline-specific needs. Research-based and problem-oriented learning approaches encourage active engagement, practical application, and reuse across academic and heritage institutions. 
 
 SODa also fosters exchange and collaboration across communities through contributions to national initiatives such as the German National Research Data Infrastructure (NFDI) and promotes standards, good practices, and innovative workflows in semantic data modeling.
 
