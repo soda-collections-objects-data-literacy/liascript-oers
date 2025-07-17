@@ -151,6 +151,7 @@ SODa is funded by the German Federal Ministry of Education and Research (BMBF) a
 * The Coordination Office for Academic University Collections in Germany at Humboldt-Universität zu Berlin
 
 * Friedrich-Alexander-Universität Erlangen-Nürnberg (FAU)
+  
   * Office for Collections and Museums
   * Competence Center for Research Data and Information (CDI)
   * Chair of Computer Science 5 (Pattern Recognition)
@@ -165,7 +166,7 @@ SODa is funded by the German Federal Ministry of Education and Research (BMBF) a
 
 [![WissKI – Wissenschaftliche Kommunikationsinfrastruktur](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/wisski_logo.png)](https://wiss-ki.eu/)[WissKI-Wissenschaftliche Kommunikationsinfrastruktur](https://wiss-ki.eu/).
 
-[![TaDiRAH](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)](https://github.com/dhtaxonomy/TaDiRAH)[TaDiRAH – Taxonomy of Research Activities in the Humanities](https://github.com/dhtaxonomy/TaDiRAH).
+[![TaDiRAH](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/Drache.png)](https://github.com/dhtaxonomy/TaDiRAH)[TaDiRAH – Taxonomy of Research Activities in the Humanities-GitHub](https://github.com/dhtaxonomy/TaDiRAH) and [ACDH-CH Vocabs Service](https://vocabs.dariah.eu/tadirah/en/).
 
 Petersen, Britta et al. (2025) [Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM)](https://zenodo.org/records/15025246), [soon available in English](https://doi.org/10.5281/zenodo.15846806).
 
