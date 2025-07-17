@@ -119,7 +119,7 @@ The tutorial is led by **Dr. Canan Hastik** ([Interessensgemeinschaft für Seman
 
 Her research centers on heterogeneous data integration, semantic infrastructures, and ontology-driven modeling, as well as the development of didactically grounded Open Educational Resources (OERs) for FAIR data publication, research data management, data literacy, and data science. She has led and contributed to numerous national and international projects in the fields of digital humanities, education, and library and information science.
 
-[![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/git.png)](https://github.com/chastik) zenodo
+[![GitHub](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/main/git.png)](https://github.com/chastik)
 
  
 ## Co-Authors
