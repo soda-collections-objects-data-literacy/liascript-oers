@@ -5,18 +5,18 @@ authorin2: Gudrun Schwenk (https://orcid.org/0009-0002-3156-8339)
 authorin3: Mark Fichtner (https://orcid.org/0000-0001-5597-4222)
 license: CC BY 4.0
 license_link: https://creativecommons.org/licenses/by/4.0/
-doi: tba
+doi: 
 email: soda@sammlungen.io
 version: v1.0.0
 language: ENG
 target_group: SODa researcher
 format: SODa WissKI How-to-Tutorial
 learning: Demonstrative Learning and Learning by Doing
-units: tba
-learning_objectives: tba
+units: 
+learning_objectives: 
 keywords: WissKI, SODa, FAIR, Semantic Web, Research Data Management
-icon: https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/SODa-Logo_full.svg
-link: https://raw.githubusercontent.com/chastik/Spielplatz/refs/heads/main/soda.css
+icon: https://raw.githubusercontent.com/soda-collections-objects-data-literacy/liascript-oers/refs/heads/main/resources/SODa-Logo_full.svg
+link: https://raw.githubusercontent.com/soda-collections-objects-data-literacy/liascript-oers/refs/heads/main/resources/soda.css
 -->
 
 # SODa WissKI Bits Tutorial
@@ -57,7 +57,7 @@ This promotes sustainable action competence, especially with complex digital too
 | **Slot 1 (9:00 a.m. – 10:40 a.m.)**                   | **Slot 2 (11:10 a.m. – 12:50 p.m.)**              |
 |-------------------------------------------------      |--------------------------------------------------|
 | **Analyzing – Capturing – Modeling**               | **Creating – Enriching – Web Developing**        |
-| **分析 - キャプチャ - \モデリング\**                     | **作成 - 拡張 - ウェブ開発**                     |
+| **分析 - キャプチャ - モデリング**                     | **作成 - 拡張 - ウェブ開発**                     |
 | Introduction, orientation, warm-up (input)            | From draw.io to WissKI Pathubuilder (individual activity) |
 | WissKI in a nutshell (input)                          | Data editing and querying (group work, input)  |
 | Identify core entities from a collection (group work) | Where is WissKI heading? (input)          |
