@@ -89,15 +89,15 @@ Using WissKI and the Erlangen CRM, participants engage in hands-on practice and 
 [Modeling](https://vocabs.dariah.eu/tadirah/en/page/modeling): Apply ontology-driven modeling techniques using WissKI Pathbuilder.
 
 * use ontologies to describe resources (LZ-ID 03\_007\_0780).
-* use WissKI Pathbuilder to model groups and paths (new).
+* use WissKI Pathbuilder to model groups and paths (LZ-ID 03\dataModeling\_soda0001).
 
 [Creating](https://vocabs.dariah.eu/tadirah/en/page/creating): Develop WissKI instances and define semantic groups and paths using draw.io to pathbuilder tool pipeline.
 
-* use draw.io to represent semantic groups and paths (new).
-* export ontology diagram as XML files from draw.io (new).
-* using the gnm_service conversion tool (new).
-* import Pathbuilder XML into WissKI (new).
-* verify groups and paths (new).
+* use draw.io to represent semantic groups and paths (LZ-ID 03\dataModeling\_soda0002).
+* export ontology diagram as XML files from draw.io (LZ-ID 03\dataModeling\_soda0003).
+* using the gnm_service conversion tool (LZ-ID 03\dataModeling\_soda0004).
+* import Pathbuilder XML into WissKI (LZ-ID 03\dataModeling\_soda0005).
+* verify groups and paths (LZ-ID 03\dataModeling\_soda0006).
 
 [Enriching](https://vocabs.dariah.eu/tadirah/en/page/enriching): Enrich existing datasets with semantic links, external vocabularies, and authority data.
 
@@ -134,6 +134,15 @@ Her research centers on heterogeneous data integration, semantic infrastructures
 ![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/fichtner.jpg)<!--width="100%"--> 
 
 **Mark Fichtner** holds a diploma in computer science from the Friedrich-Alexander University of Erlangen-Nuremberg. From 2009 to 2012, he played a key role in the development of the project “ [WissKI](https://wiss-ki.eu/) – Scientific Communication Infrastructure.” In 2012, he worked at the [Germanisches Nationalmuseum](https://www.gnm.de/museum/abteilungen-anlaufstellen/museums-und-kulturinformatik) on the digital implementation and long-term preservation of the project The Early Dürer. Since December 1, 2012, he has served as Deputy Head of the Department for Museum and Cultural Informatics at the Germanisches Nationalmuseum, which he has led as Head of Department since January 1, 2020. Additionally, he has been a founding board member of the [Interessensgemeinschaft für Semantische Datenverarbeitung (IGSD e.V.)](https://igsd-ev.de/ziele), m.fichtner@gnm.de.
+
+## Contributor
+
+![](https://raw.githubusercontent.com/chastik/Beratung_Dateityp_Bild/refs/heads/main/Tzortzakakis1.jpg)<!--width="100%"--> 
+
+Elias Tzortzakakis is a Research & Development engineer, member of the Centre for Cultural Informatics (CCI)[https://www.ics.forth.gr/isl/centre-cultural-informatics] of the Information Systems Laboratory (ISL) at the Institute of Computer Science (ICS)[https://www.ics.forth.gr/isl/] of the Foundation for Research and Technology – Hellas (FORTH)[https://www.forth.gr/en/home/] since 2008. He holds a Master of Science in Information Systems (AUEB)[https://www.aueb.gr/en] and a diploma in Electrical and Computer Engineering (NTUA)[https://ntua.gr/en/].
+
+He has expertise in CIDOC-CRM, conceptual modelling, semantic data, services, terminology and documentation management systems, applications for cultural heritage and thesauri development. He has been the project manager of collaboration projects with the Germanisches Nationalmuseum (GNM)[https://www.gnm.de/] and the technical coordinator in both European and National funded research projects.
+
 
 ## SODa Project and Contact
 
